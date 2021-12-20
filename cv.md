@@ -15,18 +15,26 @@ I did the entire layout of the project and transferred it to 1C-Bitrix having st
 
 **Code example:**
 
-```Javascript
-$(document).ready(function(){
-  $('.owl-carousel').slick({
-    accessibility:true,
-    
-  });
-  
-  $(".btn-nav").on("click", function(){
-    var target = $(this) .data("target");
-    $(target).toggleClass("open");
-  });
-});
+```const markMass = 92;
+const markHeight=1.76;
+const johnMass=92;
+const johnHeight=1.76;
+
+const markBMI = markMass/markHeight**2;
+const johnBMI = johnMass/johnHeight**2;
+
+let markJohnCompere = markBMI>johnBMI;
+console.log(markBMI, johnBMI);
+console.log(markJohnCompere);
+
+if(markBMI>johnBMI){
+    console.log(`Mark BMI is bigger than John`);
+} if(markBMI==johnBMI){
+    console.log(`Mark and John BMI is equal`);
+} 
+else{
+    console.log(`John BMI is biggest than Mark`)
+}
 ```
 
 **Skills:** HTML, CSS, Less, Sass, BEM, basic JS, Jquery, 1c-bitrix, Git+github beginner.
