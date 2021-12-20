@@ -2,7 +2,7 @@ Hi, Anton Ovchinnikov here!
 =======
 I'm 31 y.o. designer and junior web-developer.
 
-Сontact me by email: *toxadesign@gmail.com* or telegram: *@t0shii*.
+Сontact me by email: *toxadesign@gmail.com* or telegram: *@av0vchinnikov*.
 
 I would like to work on a cool product, and then come up with and launch my own projects. 
 I am productive, disciplined and motivated. I approach my work responsibly. 
